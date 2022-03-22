@@ -36,7 +36,10 @@ There are two options for projects:
 1.  Reproducibility project (“option R”):  reproduce experiments in a recently published NLP paper.  Detailed in structions for this option are given [here](../assets/docs/project-R-481N.pdf).
 1.  Design your own (“option D”).  Your team designs a project around something you are interested in.  The course staff will do our best to advise you directly or to connect you to local researchers with relevant expertise.  
 
-The [course calendar](../calendar) details the deadlines for the project.
+The [course calendar](../calendar) details the deadlines for the project's written reports.
+
+In addition to the written reports, your team is expected to give five five-minute updates over the course of the quarter.  Refer to the [course calendar](../calendar) for the dates of your team's updates.   You are required to use no more than three slides (including the title slide) for each update.  Finally, there will be a final presentation either as a video (which you will upload to Youtube) or as a live poster session at the end of the quarter.
+
 
 ## Evaluation
 
