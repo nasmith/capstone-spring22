@@ -17,6 +17,6 @@ Th May 26
 T May 31
 : Class meeting.  Final report (#10) is due at 11:59 pm.  For option R, follow the instructions [here](../assets/docs/project-R-481N.pdf) and use the [latex template](../assets/templates/project-R-481N.tgz).   For option D, follow the instructions in this [latex template](../assets/templates/project-D-481N.tgz).   Submit as an Ed post with an externally linked or attached pdf and on Canvas. **deadline**{: .label .label-red }
 
-TBD
-:  We hope to have a public poster session around June 2.
+Th Jun 2
+:  **Poster session in the Allen Center atrium.**
 
