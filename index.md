@@ -22,6 +22,9 @@ seo:
 - Ed discussion board
   for registered participants
 - This course's [Canvas page](https://canvas.uw.edu/courses/1545390)
+- [Form](https://forms.gle/NsKKa66CuMA4H6ev6) to privately and
+  individually report on how things are going with your team at any
+  point during the quarter
 
 
 ## Acknowledgments
