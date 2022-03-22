@@ -38,15 +38,15 @@ There are two options for projects:
 
 The [course calendar](../calendar) details the deadlines for the project's written reports.
 
-In addition to the written reports, your team is expected to give five five-minute updates over the course of the quarter.  Refer to the [course calendar](../calendar) for the dates of your team's updates.   You are required to use no more than three slides (including the title slide) for each update.  Finally, there will be a final presentation either as a video (which you will upload to Youtube) or as a live poster session at the end of the quarter.
+In addition to the written reports, your team is expected to give four five-minute updates over the course of the quarter.  Refer to the [course calendar](../calendar) for the dates of your team's updates.   You are required to use no more than three slides (including the title slide) for each update.  Finally, there will be a final presentation either as a video (which you will upload to Youtube) or as a live poster session at the end of the quarter.
 
 
 ## Evaluation
 
 Students will be evaluated as follows:
 1.  Reports (ten at 4% each, shared by the team with the exception of reports #5 and #9 which are individual; extra 5% to project proposal and extra 5% to final report)
-1.  Five-minute updates (short talks given in lecture; five at 3% each, shared by the team)
-1.  Final video or poster presentation (15%)
+1.  Five-minute updates (short talks given in lecture; four at 4% each, shared by the team)
+1.  Final video or poster presentation (14%)
 1.  Feedback to other teams’ reports and presentations (20%)
 
 Your team may use up to three penalty-free late days (total, not per report) for reports #4, #6, #7, and #8.  (No late days are allowed for reports #1-3, individual reports #5 and 9, or the final report #10).  Work turned in late after the late days are used up will get a zero grade.  Feedback to other teams will only count if it is provided within twenty-four hours of their blog post or in-class presentation. 
