@@ -17,6 +17,12 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
+## Coordinates
+
+Class meets in person, Tuesdays and Thursdays, 10-11:20 am, in
+[CHL 105](https://www.washington.edu/classroom/CHL+105).  Office hours
+are by appointment; email the instructor or TA directly.
+
 ## Useful Links
 
 - Ed discussion board
