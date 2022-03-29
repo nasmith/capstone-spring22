@@ -3,7 +3,7 @@ title: Proposal Stage
 ---
 
 T Mar 29
-: Class meeting:  introductions.
+: Class meeting:  introductions ([slides](../assets/docs/capstone-intro.pdf))
 
 Th Mar 31
 : Class meeting.
