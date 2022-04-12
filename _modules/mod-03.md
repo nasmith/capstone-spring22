@@ -9,7 +9,7 @@ Th May 19
 : Class meeting:  fourth updates from teams 5, 6, 7, and 8.  Report #9 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/project/605b7f5609565b2be481d114) and submit through Canvas.  **deadline**{: .label .label-red }
 
 T May 24
-: Class meeting.
+: Class meeting:  mini-lecture from Yizhong on cross-task transfer learning.
 
 Th May 26
 : Class meeting.
