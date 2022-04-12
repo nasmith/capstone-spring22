@@ -33,7 +33,7 @@ project management skills to prioritize work items to maximize the chance for su
 ## Project Options
 
 There are two options for projects:
-1.  Reproducibility project (“option R”):  reproduce experiments in a recently published NLP paper.  Detailed in structions for this option are given [here](../assets/docs/project-R-481N.pdf).
+1.  Reproducibility project (“option R”):  reproduce experiments in a recently published NLP paper.  Detailed instructions for this option are given [here](../assets/docs/project-R-481N.pdf).
 1.  Design your own (“option D”).  Your team designs a project around something you are interested in.  The course staff will do our best to advise you directly or to connect you to local researchers with relevant expertise.  
 
 The [course calendar](../calendar) details the deadlines for the project's written reports.
