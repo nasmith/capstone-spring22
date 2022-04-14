@@ -16,7 +16,7 @@ seo:
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
-
+ 
 ## Coordinates
 
 Class meets in person, Tuesdays and Thursdays, 10-11:20 am, in
