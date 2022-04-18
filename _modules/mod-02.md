@@ -9,7 +9,7 @@ T Apr 19
 : Class meeting: first updates from teams 5, 6, 7, and 8.  Remember:  you are required to use no more than three slides (including the title slide) for each update.  Report #4 is due at 11:59 pm.  For option D projects, you should complete at least one strawman/baseline approach, run experiments, and set up the evaluation framework.  For option R projects, update on your progress since the last report.  Submit as an Ed post.  **deadline**{: .label .label-red }
 
 Th Apr 21
-: Class meeting:  team working time.  Report #5 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/project/605b7f5609565b2be481d114) and submit through Canvas.  **deadline**{: .label .label-red }
+: Class meeting:  mini-lecture on technical writing. Report #5 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/project/605b7f5609565b2be481d114) and submit through Canvas.  **deadline**{: .label .label-red }
 
 T Apr 26
 : Class meeting:  second updates from teams 1, 2, 3, and 4.
@@ -18,7 +18,7 @@ Th Apr 28
 : Class meeting:  second updates from teams 5, 6, 7, and 8.  Report #6 is due at 11:59 pm.  For option D projects, you should have completed multiple strawman/baseline approaches, recorded their performance, and performed error analysis; you should report on your first advanced solution attempt. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next?   For option R projects, update on your progress since the last report.  Submit as an Ed post.  **deadline**{: .label .label-red }
 
 T May 03
-: Class meeting:  mini-lecture on technical writing.
+: Class meeting:  mini-lecture from Ofir on "transformers from scratch."   
 
 Th May 05
 : Class meeting:  third updates from teams 1, 2, 3, and 4. Report #7 is due at 11:59 pm.  For option D projects, you should continue advanced solution attempt #1, run more experiments, do more error analysis, and sketch out the next action plan. For option R projects, update on your progress since the last report.   Submit as an Ed post.  **deadline**{: .label .label-red }
