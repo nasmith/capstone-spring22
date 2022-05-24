@@ -12,10 +12,10 @@ T May 24
 : Class meeting:  mini-lecture from Yizhong on cross-task transfer learning.
 
 Th May 26
-: Class meeting.
+: No class meeting.  Come to Noah's office during class meeting time if you want to discuss anything!
 
 T May 31
-: Class meeting.  Final report (#10) is due at 11:59 pm.  For option R, follow the instructions [here](../assets/docs/project-R-481N.pdf) and use the [latex template](../assets/templates/project-R-481N.tgz).   For option D, follow the instructions in this [latex template](../assets/templates/project-D-481N.tgz).   Submit as an Ed post with an externally linked or attached pdf and on Canvas. **deadline**{: .label .label-red }
+: No class meeting.  Use the time to finalize your report.  Final report (#10) is due at 11:59 pm.  For option R, follow the instructions [here](../assets/docs/project-R-481N.pdf) and use the [latex template](../assets/templates/project-R-481N.tgz).   For option D, follow the instructions in this [latex template](../assets/templates/project-D-481N.tgz).   Submit as an Ed post with an externally linked or attached pdf and on Canvas. **deadline**{: .label .label-red }
 
 Th Jun 2
 :  **Poster session in the Allen Center atrium.**
